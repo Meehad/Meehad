@@ -2,10 +2,10 @@
 <h3 align="center">Passionate Full-Stack Developer | Coding Enthusiast</h3>
 
 <p align="center">
-  🌟 Building innovative web apps with **Python** & **Django** <br>
-  🌱 Currently diving deeper into **React.js** <br>
-  💬 Ask me about **Python**, **Django**, or **Full-Stack Development** <br>
-  📧 Reach me at **mohammedmihad2@gmail.com** <br>
+  🌟 Building innovative web apps with <b>Python</b> & <b>Django</b> <br>
+  🌱 Currently diving deeper into <b>React.js</b> <br>
+  💬 Ask me about <b>Python</b>, <b>Django</b>, or <b>Full-Stack Development</b> <br>
+  📧 Reach me at <b>mohammedmihad2@gmail.com</b> <br>
 </p>
 
 ---
