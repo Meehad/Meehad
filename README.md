@@ -9,10 +9,10 @@
 🎨 I'm a self-taught Backend Developer<br>
 🔗 I make APIs using Django<br>
 🎓 I'm an individual who completed my BCA<br>
-🌐 You can see some of my projects on [my Repo](https://github.com/Meehad/)<br>
+🌐 You can see some of my projects on my <a href="https://github.com/Meehad/"><img alt="Github" title="Github" src="https://img.shields.io/badge/-github-181717?style=for-the-badge&logo=github&logoColor=white"/></a> Repo<br>
 🧑‍💻 I'm currently working at <a href="https://www.teamdotco.com/" style="margin: 0; display: inline-flex; align-items: center;">
     <img src="./dotco.svg" style="width: 28px; height: auto; background-color: black; margin: 0;">
-    <img alt="Website" title="Website" src="https://img.shields.io/badge/-teamDotco-000000?style=for-the-badge"/>
+    <img alt="Website" title="Website" src="https://img.shields.io/badge/-teamDotco-7b0fd4?style=for-the-badge"/>
   </a><br>
 </div>
 
